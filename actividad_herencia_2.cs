@@ -116,3 +116,29 @@ class Profesor : Persona
         Materia = materia;
     }
 }
+
+/* Ahora le mostraré diferentes tipos de herencia (hubiera hecho un trabajo en PDF pero la asignación dice que la entrega es por github)
+
+1. Herencia simple
+
+Una clase hereda de una sola clase base.
+
+2. Herencia múltiple
+
+Una clase hereda de varias clases (no soportada directamente en C#, pero sí con interfaces).
+
+3. Herencia multinivel
+
+Una clase hereda de otra que a su vez hereda de otra.
+
+4. Herencia jerárquica
+
+Varias clases heredan de una misma clase base.
+
+5. Herencia híbrida
+
+Combinación de varios tipos de herencia.
+
+
+Cualquier corrección me la puede hacer a través de mensaje de plataforma o en persona
+*/
